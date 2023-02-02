@@ -1,0 +1,10 @@
+@startuml category
+
+:Admin: -> (Criar categoria)
+:Admin: -> (Atualizar categoria)
+:Admin: -> (Consultar categoria)
+:Admin: -> (Consultar categorias)
+:Admin: -> (Deletar categoria)
+
+
+@enduml
